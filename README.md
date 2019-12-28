@@ -1,2 +1,2 @@
-# game-learning
-This is my phone-game playing experiences and feedbacks:)
+# 随便写写
+这里是我的各种笔记，包括游戏体验、学习小记、个人随笔。
